@@ -1,0 +1,11 @@
+*pyc
+*~
+/venv/
+/setup.el
+\.#*
+\#*
+.coverage
+
+# various
+!Icon
+/TAGS
